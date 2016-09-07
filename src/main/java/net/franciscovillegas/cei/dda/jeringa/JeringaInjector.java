@@ -1,7 +1,5 @@
 package net.franciscovillegas.cei.dda.jeringa;
 
-import static org.hamcrest.CoreMatchers.instanceOf;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.lang.annotation.Annotation;
