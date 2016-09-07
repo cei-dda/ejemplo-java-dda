@@ -9,7 +9,7 @@ import net.franciscovillegas.cei.dda.mazo.MazoImpl;
 
 public class MazoController {
 
-	@Jeringa(value = "net.franciscovillegas.cei.dda.mazo.MazoImpl")
+	@Jeringa(value = "mazo")
 	private Mazo mazo;
 
 	public MazoController() {
